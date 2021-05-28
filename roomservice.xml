@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="Dereks1233/android_device_samsung_lt02wifi" path="device/samsung/lt02wifi" remote="github" revision="lineage-16"/>
+  <!--Hardware-->
+  <project name="Dereks1233/android_hardware_marvell" path="hardware/samsung" remote="github" revision="lineage-16"/>
+  <project name="Dereks1233/android_vendor_marvell_generic" path="hardware/samsung" remote="github" revision="lineage-16"/>
+  <project name="Dereks1233/android_vendor_marvell_external" path="hardware/samsung" remote="github" revision="lineage-16"/>
+  <!--Kernel-->
+  <project name="Dereks1233/android_kernel_samsung_lt02-1" path="kernel/samsung/lt02" remote="github" revision="master"/>
+  <!--Blobs-->
+  <project name="Dereks1233/android_vendor_samsung_lt02wifi" path="vendor/samsung/lt02wifi" remote="github" revision="lineage-16"/>
+</manifest>
